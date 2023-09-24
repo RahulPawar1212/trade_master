@@ -1,0 +1,2001 @@
+[{
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 7
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 13
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 22
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 34
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 40
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 48
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 79
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 100
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 104
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 128
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 136
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 144
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 154
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 157
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 163
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 166
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 193
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 199
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 212
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 220
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 236
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 263
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 275
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 277
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 278
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 305
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 312
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 317
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 324
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 330
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 335
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 338
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 341
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 342
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 357
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 368
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 371
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 380
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 383
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 385
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 399
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 404
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 419
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 422
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 438
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 467
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 474
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 480
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 495
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 509
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 513
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 526
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 527
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 547
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 583
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 592
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 595
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 625
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 628
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 634
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 637
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 676
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 685
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 694
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 701
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 714
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 724
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 739
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 742
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 757
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 760
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 772
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 781
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 811
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 817
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 827
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 857
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 881
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 910
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 913
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 916
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 919
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 928
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 937
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 940
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 955
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 958
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 967
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 981
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 993
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1008
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1011
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1023
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1038
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1041
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1053
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1076
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1085
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1100
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1145
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1153
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1168
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1174
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1181
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1185
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1186
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1190
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1196
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1205
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1232
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1235
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1247
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1250
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1267
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1315
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1333
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1336
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1348
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1363
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1394
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1403
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1406
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1442
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1455
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1467
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1476
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1485
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1491
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1494
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1512
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1515
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1521
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1570
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1576
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1581
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1594
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1597
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1614
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1621
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1624
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1627
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1633
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1639
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1660
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1672
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1675
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1726
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1805
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1808
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1814
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1841
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1879
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1901
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1922
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1949
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1964
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1979
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 1997
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2018
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2029
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2031
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2043
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2048
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2049
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2056
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2073
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2085
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2088
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2107
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2124
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2144
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2181
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2259
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2263
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2277
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2283
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2289
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2294
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2303
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2316
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2319
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2385
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2397
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2412
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2421
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2431
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2442
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2463
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2475
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2489
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2493
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2535
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2562
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2606
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2614
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2643
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2649
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2664
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2687
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2705
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2709
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2739
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2783
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2792
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2816
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2841
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2844
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2854
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2859
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2866
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2868
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2885
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2909
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2912
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2963
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2972
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 2987
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3002
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3021
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3045
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3066
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3078
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3103
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3127
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3149
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3150
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3186
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3220
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3237
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3252
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3273
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3327
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3329
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3339
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3345
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3348
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3351
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3363
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3375
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3387
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3405
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3411
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3417
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3423
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3426
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3432
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3456
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3475
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3493
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3496
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3499
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3506
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3507
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3518
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3546
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3579
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3637
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3672
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3694
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3703
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3718
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3721
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3724
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3744
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3757
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3761
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3787
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3799
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3812
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3857
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3880
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3892
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3906
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3918
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3980
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 3987
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 4014
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 4067
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 4172
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 4204
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 4244
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 4306
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 4391
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 4421
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 4481
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 4487
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 4491
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 4503
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 4525
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 4529
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 4598
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 4656
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 4668
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 4684
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 4693
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 4717
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 4745
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 4838
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 4847
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 4898
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 4907
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 4934
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 4963
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 4973
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 4986
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 4992
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5049
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5054
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5097
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5142
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5143
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5162
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5186
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5200
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5204
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5258
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5264
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5265
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5279
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5313
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5359
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5373
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5378
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5382
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5385
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5394
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5407
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5426
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5435
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5449
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5475
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5578
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5585
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5610
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5622
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5633
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5701
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5748
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5751
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5782
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5900
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5911
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5926
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5938
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 5948
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 6018
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 6125
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 6198
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 6216
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 6364
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 6445
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 6545
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 6579
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 6596
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 6643
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 6656
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 6705
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 6713
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 6718
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 6733
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 6818
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 6943
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 6944
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 6964
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 6994
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 7053
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 7083
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 7105
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 7145
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 7177
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 7200
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 7227
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 7229
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 7242
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 7254
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 7358
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 7390
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 7401
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 7406
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 7506
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 7553
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 7603
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 7929
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 7936
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 7942
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 7982
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 8050
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 8054
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 8075
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 8110
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 8124
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 8167
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 8182
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 8311
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 8479
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 8506
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 8510
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 8546
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 8585
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 8596
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 8696
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 8736
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 8828
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 8840
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 8866
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 9014
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 9087
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 9111
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 9309
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 9348
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 9354
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 9356
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 9362
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 9385
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 9408
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 9480
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 9552
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 9553
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 9581
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 9590
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 9599
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 9617
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 9668
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 9683
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 9685
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 9741
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 9750
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 9756
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 9810
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 9819
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 9917
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 10099
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 10238
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 10243
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 10440
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 10447
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 10453
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 10577
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 10578
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 10579
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 10580
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 10599
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 10604
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 10666
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 10726
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 10738
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 10753
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 10755
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 10794
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 10925
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 10940
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 10990
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 10999
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11037
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11045
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11184
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11195
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11223
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11253
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11262
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11275
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11287
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11301
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11325
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11343
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11351
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11364
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11369
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11373
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11377
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11386
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11403
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11452
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11460
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11483
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11532
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11536
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11543
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11580
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11591
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11593
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11606
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11618
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11630
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11654
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11667
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11677
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11689
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11703
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11723
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11778
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11782
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11809
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11813
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11821
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11829
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11840
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11860
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11872
+}, {
+	"Exchange": "N",
+	"ExchangeType": "C",
+	"ScripCode": 11915
+}]
