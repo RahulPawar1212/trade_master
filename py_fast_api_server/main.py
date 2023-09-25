@@ -116,9 +116,9 @@ async def connection_new():
     except Exception as e:
         return e
     
-@app.get("/marketdept/")
-async def connection_new():
-    with open('../scriptmaster copy.json', 'r') as json_file:
+@app.get("/marketdept/{item_id}")
+async def connection_new(item_id:str):
+    with open('../scriptmaster'+ item_id +'.json', 'r') as json_file:
         scripMasterData = json.load(json_file)
     global accessToken
     url = "https://Openapi.5paisa.com/VendorsAPI/Service1.svc/MarketDepth"
